@@ -100,3 +100,22 @@ Coverage
     }
   }
 ```
+
+## Autosave Visual Studio Code configurazion
+
+```
+{
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnSave": true, 
+    "eslint.alwaysShowStatus": true, 
+    "files.autoSave": "onFocusChange" 
+}
+```
