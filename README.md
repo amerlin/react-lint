@@ -101,7 +101,7 @@ Coverage
   }
 ```
 
-## Autosave Visual Studio Code configurazion
+## Autosave Visual Studio Code configuration
 
 ```
 {
